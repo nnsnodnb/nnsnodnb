@@ -13,7 +13,7 @@ I'm a iOS applications & Python softwares developer from Japan 🇯🇵
 - 📝 I write technical articles only Japanese on <a href="https://nnsnodnb.hatenablog.jp" target="_blank" rel="noopener">blog</a>
 - 😆 Please see more information from <a href="https://nnsnodnb.github.io" target="_blank" rel="noopener">https://nnsnodnb.github.io</a>
 
-### Use Launguage and tools
+### Use Launguages and tools
 
 <code><img height="30" alt="swift" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" /></code>
 <code><img height="30" alt="swiftui" src="https://raw.githubusercontent.com/github/explore/main/topics/swiftui/swiftui.png" /></code>
@@ -22,11 +22,14 @@ I'm a iOS applications & Python softwares developer from Japan 🇯🇵
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></code>
 <code><img height="30" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" /></code>
 <code><img height="30" alt="pycharm" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png" /></code>
+<code><img height="30" alt="rxswift" src="https://github.com/ReactiveX/RxSwift/raw/main/assets/RxSwift_Logo.png" /></code>
 <code><img height="30" alt="aws" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /></code>
 <code><img height="30" alt="github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" /></code>
 <code><img height="30" alt="firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
 <code><img height="30" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" /></code>
 <code><img height="30" alt="actions" src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" /></code>
+<code><img height="30" alt="bitrise" src="https://avatars.githubusercontent.com/u/7174390?s=200&v=4" /></code>
+<code><img height="30" alt="circleci" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" /></code>
 
 ### GitHub stats
 
