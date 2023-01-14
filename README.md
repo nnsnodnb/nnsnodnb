@@ -23,6 +23,7 @@ I'm a iOS applications & Python softwares developer from Japan 🇯🇵
 <code><img height="30" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" /></code>
 <code><img height="30" alt="pycharm" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png" /></code>
 <code><img height="30" alt="rxswift" src="https://github.com/ReactiveX/RxSwift/raw/main/assets/RxSwift_Logo.png" /></code>
+<code><img height="30" alt="fastlane" src="https://avatars.githubusercontent.com/u/11098337?s=200&v=4" /></code>
 <code><img height="30" alt="aws" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /></code>
 <code><img height="30" alt="github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" /></code>
 <code><img height="30" alt="firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
