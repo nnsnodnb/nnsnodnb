@@ -4,7 +4,7 @@
 
 ----
 
-I'm a iOS applications & Python softwares developer from Japan 🇯🇵
+I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 
 ## About me
 
