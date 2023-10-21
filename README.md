@@ -11,7 +11,7 @@ I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 - 💼 iOS application developer & server side developer with Python
 - 📬 How to reach me `nnsnodnb[at]gmail.com`
 - 📝 I write technical articles only Japanese on <a href="https://nnsnodnb.hatenablog.jp" target="_blank" rel="noopener">blog</a>
-- 😆 Please see more information from <a href="https://nnsnodnb.github.io" target="_blank" rel="noopener">https://nnsnodnb.github.io</a>
+- 😆 Please see more information from <a href="https://nnsnodnb.moe" target="_blank" rel="noopener">https://nnsnodnb.moe</a>
 
 ### Use Launguages and tools
 
@@ -37,9 +37,4 @@ I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 [![trophy](https://github-profile-trophy.vercel.app/?username=nnsnodnb&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nnsnodnb&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="nnsnodnb's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnsnodnb&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Pinned
-
-| <a href="https://github.com/nnsnodnb/kalyke"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnsnodnb&repo=kalyke&hide_border=true" /></a> | <a href="https://github.com/nnsnodnb/nowplaying-ios"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=nnsnodnb&repo=nowplaying-ios&hide_border=true" /></a> |
 | ------------- | ------------- |
