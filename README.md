@@ -13,6 +13,9 @@ I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 - 📝 I write technical articles only Japanese on <a href="https://nnsnodnb.hatenablog.jp" target="_blank" rel="noopener">blog</a>
 - 😆 Please see more information from <a href="https://nnsnodnb.moe" target="_blank" rel="noopener">https://nnsnodnb.moe</a>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ### Use Launguages and tools
 
 <code><img height="30" alt="swift" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" /></code>
