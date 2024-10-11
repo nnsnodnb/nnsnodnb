@@ -14,8 +14,6 @@ I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 - 😆 Please see more information from <a href="https://nnsnodnb.moe" target="_blank" rel="noopener">https://nnsnodnb.moe</a>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/nnsnodnb" target="_blank" rel="noopener noreferrer"><img alt="nnsnodnb's scores on LAPRAS are as follows: Engineering: 4.28 out of 5.0, Business: 3.57 out of 5.0, Influence: 3.68 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.28&b=3.57&i=3.68&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
-Last Updated on 10/11/2024, 9:57:24 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ### Use Launguages and tools
