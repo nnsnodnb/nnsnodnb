@@ -13,10 +13,6 @@ I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 - 📝 I write technical articles only Japanese on <a href="https://nnsnodnb.hatenablog.jp" target="_blank" rel="noopener">blog</a>
 - 😆 Please see more information from <a href="https://nnsnodnb.moe" target="_blank" rel="noopener">https://nnsnodnb.moe</a>
 
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/nnsnodnb" target="_blank" rel="noopener noreferrer"><img alt="nnsnodnb's scores on LAPRAS are as follows: Engineering: 4.29 out of 5.0, Business: 3.57 out of 5.0, Influence: 3.69 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.29&b=3.57&i=3.69&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a></p>
-<!--END_SECTION:lapras-card-->
-
 ### Use Launguages and tools
 
 <code><img height="30" alt="swift" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" /></code>
@@ -38,8 +34,6 @@ I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 <code><img height="30" alt="circleci" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" /></code>
 
 ### GitHub stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nnsnodnb&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nnsnodnb&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="nnsnodnb's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnsnodnb&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
