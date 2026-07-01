@@ -8,7 +8,7 @@ I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 
 ## About me
 
-- 💼 Working in [@zenproducts](https://github.com/zenproducts) as a product engineer and developing in [@hollyhocksoft](https://github.com/hollyhocksoft)
+- 💼 Developing in [@hollyhocksoft](https://github.com/hollyhocksoft)
 - 📬 How to reach me `me[at]nnsnodnb.moe`
 - 📝 I write technical articles only Japanese on <a href="https://nnsnodnb.hatenablog.jp" target="_blank" rel="noopener">blog</a>
 - 😆 Please see more information from <a href="https://nnsnodnb.moe" target="_blank" rel="noopener">https://nnsnodnb.moe</a>
