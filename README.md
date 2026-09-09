@@ -31,9 +31,9 @@ I'm an iOS applications & Python softwares developer from Japan 🇯🇵
 <code><img height="30" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" /></code>
 <code><img height="30" alt="actions" src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" /></code>
 <code><img height="30" alt="bitrise" src="https://avatars.githubusercontent.com/u/7174390?s=200&v=4" /></code>
-<code><img height="30" alt="circleci" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" /></code>
+<code><img height="30" alt="circleci" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/3840px-Circleci-icon-logo.svg.png" /></code>
 
 ### GitHub stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nnsnodnb&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="nnsnodnb's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnsnodnb&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/stats-organization/github-stats-extended"><img align="center" src="https://github-stats-extended.vercel.app/api?username=nnsnodnb&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="nnsnodnb's github stats" /></a> | <a href="https://github.com/stats-organization/github-stats-extended"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nnsnodnb&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
